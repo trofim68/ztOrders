@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trofimov"
+        android:title="@string/trofimov"/>
+
+    <item
+        android:id="@+id/trofimova"
+        android:title="@string/trofimova"/>
+
+    <item
+        android:id="@+id/zarapin"
+        android:title="@string/zarapin"/>
+
+    <item
+        android:id="@+id/zarapina"
+        android:title="@string/zarapina"/>
+
+
+</menu>
